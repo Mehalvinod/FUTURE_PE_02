@@ -1,29 +1,71 @@
-# AI-Powered UGC Ad Prompt System (Task 2)
+# AI-Powered UGC Ad Content System
 
-## Objective
-This project demonstrates a structured prompt system designed to generate high-converting UGC-style ad content, similar to how real content marketing agencies create paid ads for businesses.
+This repository showcases an AI-driven prompt system designed to generate high-converting UGC-style ad content for D2C brands.
 
-The prompts are built to generate short-form video ad scripts that follow proven marketing frameworks and are ready for platforms like Instagram Reels, Ads, and Shorts.
-
----
-
-## Business Chosen
-**SmileCare Dental Clinic**
-
-- Type: Local dental clinic
-- Target Audience: Adults aged 20–50 who delay dental visits due to fear, cost, or busy schedules
-- Goal: Increase appointment bookings through short-form UGC ads
+The system mimics how real content marketing agencies create short-form ads that feel authentic, human, and conversion-focused.
 
 ---
 
-## Prompt System Overview
+## 📌 Project Overview
+
+Brand Chosen: **Lipzy**  
+Industry: **D2C Skincare**  
+Product: **Hydrating Chapstick**
+
+The goal was to build a reusable AI prompt framework capable of producing:
+- Scroll-stopping hooks
+- UGC-style ad scripts
+- Clear CTAs
+- Platform-ready content for Instagram Reels, Ads & Shorts
+
+---
+
+## 🎯 Why UGC Ads?
+
+Modern audiences trust content that feels real, not polished.
+
+UGC-style ads:
+- Look like everyday Instagram videos
+- Sound like honest user experiences
+- Consistently outperform traditional ads in paid campaigns
+
+---
+
+
+---
+
+## 🧠 Prompt Strategy
+
 The prompt system is designed to:
-
-- Generate scroll-stopping hooks
-- Create authentic UGC-style ad scripts
-- Follow a problem → solution → CTA structure
-- Adapt tone for different platforms and brand styles
+- Follow proven ad frameworks (Problem → Solution → CTA)
+- Generate multiple hooks for the same product
+- Adapt tone for authenticity (non-salesy, conversational)
+- Be reused for any D2C, local, or creator brand
 
 ---
+
+## 🚀 Sample Output
+
+Includes:
+- Multiple hooks
+- Short-form UGC ad scripts (15–30 sec)
+- Natural CTAs suitable for paid ads
+
+The content is ready to be directly used by:
+- Marketing agencies
+- Brand founders
+- Paid ad teams
+
+---
+
+## 📈 Use Cases
+
+- D2C brands
+- Local businesses
+- Creators
+- Performance marketing agencies
+
+---
+
 
 
