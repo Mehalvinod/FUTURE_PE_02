@@ -6,7 +6,7 @@ The system mimics how real content marketing agencies create short-form ads that
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Brand Chosen: **Lipzy**  
 Industry: **D2C Skincare**  
@@ -20,21 +20,12 @@ The goal was to build a reusable AI prompt framework capable of producing:
 
 ---
 
-## 🎯 Why UGC Ads?
 
-Modern audiences trust content that feels real, not polished.
-
-UGC-style ads:
-- Look like everyday Instagram videos
-- Sound like honest user experiences
-- Consistently outperform traditional ads in paid campaigns
-
----
 
 
 ---
 
-## 🧠 Prompt Strategy
+##  Prompt Strategy
 
 The prompt system is designed to:
 - Follow proven ad frameworks (Problem → Solution → CTA)
@@ -44,7 +35,7 @@ The prompt system is designed to:
 
 ---
 
-## 🚀 Sample Output
+## Sample Output
 
 Includes:
 - Multiple hooks
@@ -58,7 +49,7 @@ The content is ready to be directly used by:
 
 ---
 
-## 📈 Use Cases
+##  Use Cases
 
 - D2C brands
 - Local businesses
